@@ -5,6 +5,6 @@
 **Status:** In Progress
 
 ## What I'm learning
-How to design a program.
+Fundamentals of programming and Computer Logic.
 
 ## Completed
