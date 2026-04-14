@@ -8,4 +8,4 @@
 
 ## Projects  
 temperature converter, c to f --unfinished  
-scratch.mit go fish card game --on hold  
+scratch.mit [Go Fish](https://scratch.mit.edu/projects/1289229381/) --on hold  
