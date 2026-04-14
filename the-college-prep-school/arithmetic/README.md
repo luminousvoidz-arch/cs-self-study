@@ -6,7 +6,7 @@
 
 
 ## What I'm Learning
-I'm refreshing on the basics of Arithmetic.
+I'm refreshing on my math fundamentals to prepare for advanced cs maths.
 
 
 ## Completed
