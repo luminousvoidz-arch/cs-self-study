@@ -1,8 +1,11 @@
 # Arithmetic
 
 **Platform:** Youtube
+
 **Source:** link here
+
 **Status:** In Progress
+
 
 ## What I'm Learning
 I'm refreshing on the basics of Arithmetic.
