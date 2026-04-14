@@ -11,4 +11,4 @@ How to design a program.
 # Completed
 0: Introduction <sub>Apr 3, 2026<sub>
 
-1a: Beginning Student Language <Apr 3 - wip>
+1a: Beginning Student Language <sub>Apr 3 - wip<sub>
