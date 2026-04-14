@@ -1,9 +1,9 @@
-# cs-self-study
+# Computer Science self study
 
 ## Courses
-| Course | Type | Topic | Status |
-|---|---|---|---|
-| How to Think like a Computer Scientist | Interactive Textbook | Python | In Progress |
-| The College Prep School - Arithmetic | YouTube | Math | In Progress |
-| Systematic Program Design Part 1 | edX | Programming | In Progress |
-| [4th course name] | [type] | [topic] | In Progress |
+[How to think like a Computer Scientist](how-to-think-like-a-computer-scientist-interactive-edition)  
+[]()  
+[]()  
+[]()  
+
+## Projects
