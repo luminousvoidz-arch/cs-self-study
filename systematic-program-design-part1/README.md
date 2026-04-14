@@ -1,8 +1,8 @@
 # Systematic Program Design - Part 1
 
-**Type** Archived edx course
-**Source** [Systematic Program Design - Part 1](https://learning.edx.org/course/course-v1:UBCx+SPD1x+2T2015/home)
-**Status** In Progress
+**Type** Archived edx course  
+**Source** [Systematic Program Design - Part 1](https://learning.edx.org/course/course-v1:UBCx+SPD1x+2T2015/home)  
+**Status** In Progress  
 
 ## What I'm learning
 How to design a program.
