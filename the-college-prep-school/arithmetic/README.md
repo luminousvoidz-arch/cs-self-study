@@ -1,8 +1,8 @@
 # Arithmetic
 
-**Platform:** Youtube
-**Source:** [The College Prep School](https://youtube.com/playlist?list=PLm2VEQtiYjhpTTgxTVCXVcpYWDUqiewiQ&si=MHUdIX_9xYtc76uq)
-**Status:** In Progress
+**Platform:** Youtube  
+**Source:** [The College Prep School](https://youtube.com/playlist?list=PLm2VEQtiYjhpTTgxTVCXVcpYWDUqiewiQ&si=MHUdIX_9xYtc76uq)  
+**Status:** In Progress  
 
 
 ## What I'm Learning
