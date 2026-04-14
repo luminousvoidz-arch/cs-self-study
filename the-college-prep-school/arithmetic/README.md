@@ -10,9 +10,9 @@ I'm refreshing on the basics of Arithmetic.
 
 
 ## Completed
-Class 1: An Introduction, Course Content, and Staying Organized
+Class 1: An Introduction, Course Content, and Staying Organized <sub>Apr 2 - Apr 3, 2026<sub>
 
-Class 2: Introduction to numbers <sub>4/2/2026<sub>
+Class 2: Introduction to numbers <sub>4/2-3/2026<sub>
 
 Class 3: Adding Whole Numbers
 
