@@ -18,6 +18,6 @@ Class 3: Adding Whole Numbers <sub>Apr 4, 2026<sub>
 
 Class 4: Subtracting Whole Numbers <sub>Apr 4 - Apr 6, 2026<sub>
 
-Class 5: Memorizing Products <sub>Apr 7 - Apr 8, 2026<sub>
+Class 5: Memorizing Products <sub>Apr 7 - Apr 10, 2026<sub>
 
-Class 6: Multiplying Multi-Digit Whole Numbers <sub>Apr 8 - Apr 12, 2026<sub>
+Class 6: Multiplying Multi-Digit Whole Numbers <sub>Apr 11 - Apr 12, 2026<sub>
