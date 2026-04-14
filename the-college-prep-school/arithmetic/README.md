@@ -5,7 +5,7 @@
 **Status:** In Progress  
 
 
-## What I'm Learning
+## What I'm learning
 Math fundamentals to prepare for advanced cs maths.
 
 
