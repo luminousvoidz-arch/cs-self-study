@@ -1,7 +1,7 @@
 # Arithmetic
 
 **Type:** Youtube  
-**Source:** [The College Prep School](https://youtube.com/playlist?list=PLm2VEQtiYjhpTTgxTVCXVcpYWDUqiewiQ&si=MHUdIX_9xYtc76uq)  
+**Source:** [The College Prep School - Arithmetic](https://youtube.com/playlist?list=PLm2VEQtiYjhpTTgxTVCXVcpYWDUqiewiQ&si=MHUdIX_9xYtc76uq)  
 **Status:** In Progress  
 
 
