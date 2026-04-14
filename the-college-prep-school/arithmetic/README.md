@@ -6,7 +6,7 @@
 
 
 ## What I'm Learning
-I'm refreshing on my math fundamentals to prepare for advanced cs maths.
+Math fundamentals to prepare for advanced cs maths.
 
 
 ## Completed
