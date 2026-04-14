@@ -8,3 +8,6 @@
 Fundamentals of programming and Computer Logic.
 
 ## Completed
+Chapter 1: Introduction to Computers and Programming <sub>Feb 11 - Feb 19, 2026<sub>
+
+Chapter 2: Input, Processing, and Output <sub>Feb 23 - ongoing<sub>
