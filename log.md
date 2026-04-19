@@ -2,6 +2,7 @@
 ## Systematic Program Design - Part 1  
    BSL - using the stepper <sub>Apr 14 2026</sub>  
    4 practice problems <sub>Apr 14 2026</sub>  
+   p2, p4, p5, p6, p7 practice problems <sub>Apr 18, 2026<sub>  
    
 
 
