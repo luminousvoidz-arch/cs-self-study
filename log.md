@@ -10,6 +10,7 @@
 
 
 ## How to think like a Computer Scientist: Interactive Edition
+   6.1 Functions <sub>Apr 18, 2026<sub>
 
 
 ## The College Prep School
