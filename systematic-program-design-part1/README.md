@@ -12,3 +12,5 @@ How to design a program.
 0: Introduction <sub>Apr 3, 2026<sub>
 
 1a: Beginning Student Language <sub>Apr 3 - Apr 26, 2026<sub>
+
+1b: How to Design Functions <sub>Apr - ongoing</sub>
