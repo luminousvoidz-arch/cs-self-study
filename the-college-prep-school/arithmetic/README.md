@@ -21,3 +21,5 @@ Class 4: Subtracting Whole Numbers <sub>Apr 4 - Apr 6, 2026<sub>
 Class 5: Memorizing Products <sub>Apr 7 - Apr 10, 2026<sub>
 
 Class 6: Multiplying Multi-Digit Whole Numbers <sub>Apr 10 - Apr 14, 2026<sub>
+
+Class 7: Dividing Whole Numbers pt 1 <sub>Apr 18 - ongoing</sub>  
