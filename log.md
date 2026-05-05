@@ -13,6 +13,7 @@
    2.3 Variable assignment and calculations <sub>Apr 15 - Apr 16, 2026</sub>    
    2.4 Variable Declarations and Data Types <sub>Apr 20, 2026</sub>  
    2.5 Named Constants <sub>Apr 22, 2026</sub>   
+   2.6 Hand Tracing a Program <sub>May 5, 2026</sub>   
 
 ## How to think like a Computer Scientist: Interactive Edition
    6.1 Functions <sub>Apr 18, 2026</sub>
