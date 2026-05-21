@@ -7,16 +7,16 @@
    p10, practice problems <sub>Apr 23, 2026</sub>   
    p11, p12, p13, p16 practice problems <sub>Apr 26, 2026</sub> 
 
-   
-
 
 ## Programming Logic & Design    
    2.3 Variable assignment and calculations <sub>Apr 15 - Apr 16, 2026</sub>     
    2.4 Variable Declarations and Data Types <sub>Apr 20, 2026</sub>   
    2.5 Named Constants <sub>Apr 22, 2026</sub>    
    2.6 Hand Tracing a Program <sub>May 5, 2026</sub>  
+   2.7 Documenting a program <sub>May 5, 2026</sub>  
    Spotlight: Named Constants, Style Conventions, and Comments <sub>May 5, 2026</sub>  
-   2.7 Documenting a program <sub>May 5, 2026</sub>   
+   2.8 Designing your first program <sub>May 21, 2026</sub>  
+
 
 ## How to think like a Computer Scientist: Interactive Edition
    6.1 Functions <sub>Apr 18, 2026</sub>
